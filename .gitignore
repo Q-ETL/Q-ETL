@@ -9,3 +9,4 @@ development.cmd
 settings.json
 /server/logs/*.log
 /server/app/server.cmd
+/site/
